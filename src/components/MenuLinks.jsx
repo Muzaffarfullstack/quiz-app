@@ -1,4 +1,4 @@
-import { useFetch } from "../../../quiz-app/src/hooks/useFetch";
+import { useFetch } from "../hooks/useFetch";
 import { Link } from "react-router-dom";
 
 function MenuLinks() {
