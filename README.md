@@ -7,8 +7,7 @@ The app features real-time answer validation, progress tracking, and a polished 
 
 ## 🔗 Live Demo
 
-👉 https://your-vercel-link-here.vercel.app/  
-_(Add your Vercel URL)_
+👉 https://muzaffarsquizapp-lilac.vercel.app/
 
 ---
 
@@ -139,7 +138,7 @@ quiz-app/
 
 📥 Installation & Setup
 
-git clone https://github.com/YOUR_USERNAME/quiz-app.git
+git clone https://github.com/Muzaffarfullstack/quiz-app.git
 cd quiz-app
 
 🧑‍💻 Developer
